@@ -62,7 +62,8 @@ The Microsoft Defender for Endpoint time zone is set by default to UTC. Setting 
 
 To set the time zone:
 
-1. Click the **Time zone** menu.
+1. In the [Microsoft Defender portal](https://security.microsoft.com), navigate to Settings -> Microsoft Defender Portal.
+2. Click the **Time zone** menu.
    :::image type="content" source="media/atp-time-zone.png" alt-text="The Time zone settings-3" lightbox="media/atp-time-zone.png":::
 1. Select the **Timezone UTC** indicator.
 1. Select **Timezone UTC** or your local time zone, for example -7:00.
