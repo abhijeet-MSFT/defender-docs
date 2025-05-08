@@ -69,7 +69,7 @@ Use an incident details page to view detailed information about an incident, inc
 
 ## Investigation details
 
-Use the investigation details view to see past, current, and pending activity pertaining to an investigation. The investigation details view resembles the following image:
+Use the investigation details view to see past, current, and pending activity pertaining to an investigation.
 
 In the Investigation details view, you can see information on the **Investigation graph**, **Alerts**, **Devices**, **Identities**, **Key findings**, **Entities**, **Log**, and **Pending actions** tabs, described in the following table.
 
